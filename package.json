@@ -1,5 +1,5 @@
 {
-  "name": "basic-vue2",
+  "name": "<%= packageName %>",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -41,6 +41,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^6.2.2",
     "prettier": "^2.2.1",
+    "style-resources-loader": "^1.4.1",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
     "typescript": "~4.1.5",

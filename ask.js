@@ -1,17 +1,8 @@
 module.exports = [
   {
-    name: "a",
+    name: "projectTitle",
     type: "input",
-    description: "参数一",
-  },
-  {
-    name: "b",
-    type: "input",
-    description: "参数二",
-  },
-  {
-    name: "c",
-    type: "input",
-    description: "参数三",
+    description: "document title (项目标题)",
+    default: 'main-project'
   },
 ];
